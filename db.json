@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "username": "kimaya",
+      "email": "kimaya@gmail.com",
+      "password": "123",
+      "cpassword": "123",
+      "id": 1
+    },
+    {
+      "username": "John",
+      "email": "john@gmail.com",
+      "password": "789",
+      "cpassword": "789",
+      "id": 2
+    }
+  ],
+  "profileinfo": [],
+  "dailyinfo": []
+}
